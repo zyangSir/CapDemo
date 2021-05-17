@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@capacitor/cli": "^3.0.0-rc.3",
+    "@capacitor/core": "^3.0.0-rc.3",
+    "@capacitor/ios": "^3.0.0-rc.3",
+    "btmp3player": "file:plugins/mp3Player"
+  }
+}

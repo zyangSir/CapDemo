@@ -1,0 +1,13 @@
+{
+	"appId": "com.bt.kk",
+	"appName": "cap",
+	"bundledWebRuntime": false,
+	"npmClient": "yarn",
+	"webDir": "vueproj/dist",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"cordova": {}
+}
